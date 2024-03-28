@@ -1,0 +1,45 @@
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ g++ main.cpp
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t1
+Enter 2nd file name: t2
+6.40314
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t1
+Enter 2nd file name: t5
+3.974
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t2
+Enter 2nd file name: t5
+3.8959
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t1
+Enter 2nd file name: t6
+3.909
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t2
+Enter 2nd file name: t6
+3.81825
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t1
+Enter 2nd file name: t3
+6.34323
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t2
+Enter 2nd file name: t3
+6.4776
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t1
+Enter 2nd file name: t4
+6.52919
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t2
+Enter 2nd file name: t4
+6.23433
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t5
+Enter 2nd file name: t6
+3.746
+ggame@DESKTOP-KUQ1MR9:/mnt/d/crypto/lab3$ ./a.out
+Enter 1st file name: t3
+Enter 2nd file name: t4
+6.52806
